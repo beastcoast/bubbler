@@ -171,7 +171,7 @@ padding-bottom: 20px;
 }
 
 #it--footer:before { /* logo */
-    content: ' ';
+    content: 'visit us online at beastcoastvapors.com';
     background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     width: 96%;
     height: 250px;
