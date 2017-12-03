@@ -473,10 +473,10 @@ table.pgbc {
 #storercp_mide::before {
     background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     content: ' ';
-    height: -70px;
+    height: 70px;
     width: 100%;
     position: absolute;
-    margin-top: 70px;
+    margin-top: -70px;
     z-index: 100;
     background-size: 30%;
     background-repeat: no-repeat;
