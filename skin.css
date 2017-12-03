@@ -1,6 +1,6 @@
 @CHARSET "UTF-8";
 
-@import url("../../skins/skin3/responsive.css");
+@import url("https://beastcoast.github.io/bubbler/responsive.css");
 
 .it--slogan:before {
 content: "Handcafted E-Liquid & Head Shop";
@@ -9,12 +9,12 @@ content: "Handcafted E-Liquid & Head Shop";
 content: "";
 }
 .it--logo {
-    background-image: url(https://img.freeauctiondesigns.com/dancurran92/logo.jpg);
+    background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/eBay%20Logo.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 .it--banner {
-    background-image: url(https://img.freeauctiondesigns.com/dancurran92/banner.jpg);
+    background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/banner.jpg);
     background-repeat: no-repeat;
     background-color: #061528;
 }
@@ -171,7 +171,7 @@ padding-bottom: 20px;
 
 #it--footer:before { /* logo */
     content: ' ';
-    background-image: url(https://img.freeauctiondesigns.com/dancurran92/credit.png);
+    background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     width: 96%;
     height: 250px;
     background-size: 25%;
@@ -444,7 +444,7 @@ table.pgbc {
 #storercp:before {
     content: "";
     display: block;
-    background: #061528 url(https://img.freeauctiondesigns.com/dancurran92/logo.jpg) 30px 20px no-repeat;
+    background: #061528 url(https://github.com/beastcoast/bubbler/raw/gh-pages/eBay%20Logo.jpg) 30px 20px no-repeat;
     background-size: auto 60px;
     color:  #ffffff;
     padding: 130px 900px 20px 30px;
@@ -470,7 +470,7 @@ table.pgbc {
 /** Promo banner **/
 
 #storercp_mide::before {
-    background-image: url(https://img.freeauctiondesigns.com/dancurran92/credit.png);
+    background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     content: ' ';
     height: 60px;
     width: 100%;
