@@ -87,7 +87,6 @@ padding-bottom: 20px;
 }
 #it--content .title {
     font-size: 24px;
-	font-weight: 200
 }
 #it--content .content-wrapper {
     display: flex;
@@ -445,8 +444,8 @@ table.pgbc {
 #storercp:before {
     content: "";
     display: block;
-    background: #061528 url(https://github.com/beastcoast/bubbler/raw/gh-pages/eBay%20Logo.jpg) 30px 20px no-repeat;
-    background-size: auto 60px;
+    background: #061528 url(https://github.com/beastcoast/bubbler/raw/gh-pages/eBay%20Logo.jpg) 200px 70px no-repeat;
+    background-size: auto 140px;
     color:  #ffffff;
     padding: 130px 900px 20px 30px;
     position: relative;
@@ -460,7 +459,7 @@ table.pgbc {
     position: relative;
     top: 120px;
     left: 30px;
-    font-size: 95%;
+    font-size: 90%;
     z-index: 10;
 }
 
