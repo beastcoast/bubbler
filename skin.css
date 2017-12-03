@@ -4,7 +4,7 @@
 
 
 .it--slogan:before {
-content: "<i>the ";
+content: "Handcafted E-Liquid & Head Shop";
 }
 .it--description:before {
 content: "";
@@ -175,7 +175,7 @@ padding-bottom: 20px;
     background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     width: 96%;
     height: 250px;
-    background-size: 50%;
+    background-size: 25%;
     background-position: bottom right;
     background-repeat: no-repeat;
     position: absolute;
