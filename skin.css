@@ -3,7 +3,7 @@
 @import url("https://beastcoast.github.io/bubbler/responsive.css");
 
 .it--slogan:before {
-content: "Handcafted E-Liquid & Head Shop";
+font-style: italic content: "we've got high friends in places";
 }
 .it--description:before {
 content: "";
