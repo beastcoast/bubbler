@@ -3,7 +3,7 @@
 @import url("https://beastcoast.github.io/bubbler/responsive.css");
 
 .it--slogan:before {
-content: "we've got high friends in places";
+content: "We've Got High Friends in Places";
 }
 .it--description:before {
 content: "";
@@ -45,7 +45,7 @@ padding-bottom: 20px;
 }
 
 #it--header .it--logo  {
-    height: 100px;
+    height: 50px;
     background-position: 0 0;
     background-size: auto 100%;
     display: none;
@@ -150,7 +150,7 @@ padding-bottom: 20px;
 }
 #it--footer .it--slogan {
     margin: 30px 0 0 10px;
-    font-size: 90%;
+    font-size: 100%;
 }
 #it--footer .it--description {
     font-size: 80%;
