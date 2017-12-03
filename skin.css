@@ -2,7 +2,6 @@
 
 @import url("https://beastcoast.github.io/bubbler/responsive.css");
 
-
 .it--slogan:before {
 content: "Handcafted E-Liquid & Head Shop";
 }
@@ -174,8 +173,8 @@ padding-bottom: 20px;
     content: ' ';
     background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     width: 96%;
-    height: 250px;
-    background-size: 100%;
+    height: 108px;
+    background-size: 25%;
     background-position: bottom right;
     background-repeat: no-repeat;
     position: absolute;
@@ -473,12 +472,12 @@ table.pgbc {
 #storercp_mide::before {
     background-image: url(https://github.com/beastcoast/bubbler/raw/gh-pages/credit.png);
     content: ' ';
-    height: 70px;
+    height: 60px;
     width: 100%;
     position: absolute;
     margin-top: -70px;
     z-index: 100;
-    background-size: 100%;
+    background-size: 30%;
     background-repeat: no-repeat;
     background-position: 870px;
     background-color: #b3b2b2;
