@@ -87,6 +87,7 @@ padding-bottom: 20px;
 }
 #it--content .title {
     font-size: 24px;
+	font-weight: 200
 }
 #it--content .content-wrapper {
     display: flex;
