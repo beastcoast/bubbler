@@ -453,7 +453,7 @@ table.pgbc {
     width: 35%;
 }
 .stBadge:before {
-    content: "Handcafted E-Liquid & Head Shop";
+    content: "browse our webstore at <a href="http://beastcoastvapors.com" target="_blank">beastcoastvapors.com";
     color:  #ffffff;
     display: block;
     position: relative;
