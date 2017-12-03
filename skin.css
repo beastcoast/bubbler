@@ -453,7 +453,7 @@ table.pgbc {
     width: 35%;
 }
 .stBadge:before {
-    content: "browse our webstore at <a href="http://beastcoastvapors.com" target="_blank">beastcoastvapors.com";
+    content: "browse our webstore at <a href="http://beastcoastvapors.com" target="_blank">beastcoastvapors.com"</a>;
     color:  #ffffff;
     display: block;
     position: relative;
