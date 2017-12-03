@@ -475,7 +475,7 @@ table.pgbc {
     height: 60px;
     width: 100%;
     position: absolute;
-    margin-top: -20px;
+    margin-top: 40px;
     z-index: 100;
     background-size: 30%;
     background-repeat: no-repeat;
